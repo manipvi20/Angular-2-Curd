@@ -1,0 +1,1 @@
+{"version":3,"file":"prevent-unsaved-changes.gaurd.js","sourceRoot":"","sources":["prevent-unsaved-changes.gaurd.ts"],"names":[],"mappings":";;;;;;;YAOA;gBAAA;gBAQA,CAAC;gBANG,6CAAa,GAAb,UAAc,SAAwB;oBAClC,EAAE,CAAA,CAAC,SAAS,CAAC,IAAI,CAAC,KAAK,CAAC;wBACpB,MAAM,CAAC,OAAO,CAAC,qDAAqD,CAAC,CAAC;oBAE1E,MAAM,CAAC,IAAI,CAAC;gBAChB,CAAC;gBACL,4BAAC;YAAD,CAAC,AARD,IAQC;YARD,yDAQC,CAAA"}
